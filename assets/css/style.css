@@ -1,0 +1,24 @@
+.formcss{
+  background-color: #20c997;
+  height: 400px;
+  margin-top: 20px;
+}
+
+body{
+    background-image: url(../image/shape.png),linear-gradient(#198754, #198754);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 1;
+    
+}
+
+.btncss{
+    background-color: #152733;
+    box-shadow:3px 3px #20c997;
+    border-radius:5px;
+    height: 50px;
+    font-weight: 500;
+
+}
